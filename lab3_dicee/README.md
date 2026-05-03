@@ -1,7 +1,7 @@
 # lab3_dicee
 
 Mô tả
-Ứng dụng gieo xúc xắc với hai viên dice. Nhấn vào bất kỳ viên nào để cả hai lăn ngẫu nhiên và hiển thị kết quả mới.
+- Ứng dụng gieo xúc xắc với hai viên dice. Nhấn vào bất kỳ viên nào để cả hai lăn ngẫu nhiên và hiển thị kết quả mới.
 
 Kiến thức đạt được
 - StatefulWidget vs StatelessWidget - hiểu khi nào cần dùng cái nào
