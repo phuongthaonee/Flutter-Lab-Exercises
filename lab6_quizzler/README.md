@@ -1,7 +1,7 @@
 # lab6_quizzler
 
 Mô tả
-Ứng dụng đố vui True/False với 10+ câu hỏi thú vị. Người chơi chọn đúng/sai, app track lịch sử bằng row icon ✅❌, và hiển thị màn hình kết quả sau câu hỏi cuối.
+- Ứng dụng đố vui True/False với 10+ câu hỏi thú vị. Người chơi chọn đúng/sai, app track lịch sử bằng row icon ✅❌, và hiển thị màn hình kết quả sau câu hỏi cuối.
 
 Kiến thức đạt được
 - Separation of Concerns: tách QuizBrain (logic + data) hoàn toàn khỏi UI Widget
