@@ -1,0 +1,6 @@
+# Flutter/Dart 
+**/build/ 
+**/.dart_tool/ 
+**/.idea/ 
+**/android/.gradle/ 
+**/*.iml 
