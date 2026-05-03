@@ -1,7 +1,7 @@
 # lab5_xylophone
 
 Mô tả
-Ứng dụng đàn mộc cầm với 7 phím màu sắc (đỏ → tím theo màu cầu vồng). Nhấn mỗi phím phát ra âm thanh nhạc tương ứng.
+- Ứng dụng đàn mộc cầm với 7 phím màu sắc (đỏ → tím theo màu cầu vồng). Nhấn mỗi phím phát ra âm thanh nhạc tương ứng.
 
 Kiến thức đạt được
 - Thêm và sử dụng pub package (audioplayers) - quy trình pubspec.yaml → flutter pub get → import
