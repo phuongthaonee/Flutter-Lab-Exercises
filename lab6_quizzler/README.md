@@ -12,6 +12,9 @@ Kiến thức đạt được
 
 Cấu trúc file
 lib/
+
 ├── main.dart         ← entry point + QuizPage UI
+
 ├── quiz_brain.dart   ← Question model + QuizBrain logic
+
 └── score_page.dart   ← màn hình kết quả
