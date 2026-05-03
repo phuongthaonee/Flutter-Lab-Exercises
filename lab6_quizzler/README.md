@@ -11,6 +11,7 @@ Kiến thức đạt được
 - Tổ chức project nhiều file: main.dart, quiz_brain.dart, score_page.dart
 
 Cấu trúc file
+
 lib/
 
 ├── main.dart         ← entry point + QuizPage UI
