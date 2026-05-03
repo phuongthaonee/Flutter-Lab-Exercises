@@ -1,7 +1,7 @@
 # lab2_micard
 
 Mô tả
-Ứng dụng danh thiếp cá nhân (business card) hiển thị avatar, tên, chức vụ và thông tin liên hệ (số điện thoại, email) trên nền màu teal.
+- Ứng dụng danh thiếp cá nhân (business card) hiển thị avatar, tên, chức vụ và thông tin liên hệ (số điện thoại, email) trên nền màu teal.
 
 Kiến thức đạt được
 - Sử dụng Column, Row, Padding, SizedBox, Divider để bố cục giao diện
